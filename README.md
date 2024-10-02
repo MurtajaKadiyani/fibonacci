@@ -1,3 +1,3 @@
 # pipeline-scripts
-[![Build Status](http://ec2-54-241-165-36.us-west-1.compute.amazonaws.com/buildStatus/icon?job=fibonacci)](http://ec2-54-241-165-36.us-west-1.compute.amazonaws.com/job/fibonacci/)
+[![Build Status](http://4.247.132.89:8080/buildStatus/icon?job=Jenkins-Essential-Trainings%2Ffibonnaci)](http://4.247.132.89:8080/job/Jenkins-Essential-Trainings/job/fibonnaci/)
 Run scripts from a pipeline.
